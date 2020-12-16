@@ -6,6 +6,7 @@ public class tabline_one{
 
 		Scanner scan = new Scanner(System.in);
 
+		System.out.print("n : ");
 		int n = scan.nextInt();
 
 		for(int i = 0; i < n; i++){
